@@ -16,11 +16,10 @@ NetEz: Using <a href="https://github.com/yiyungent/Meting4Net" target="_blank">M
  
 ## TODO
 
-- [x] 网易云音乐 Meting Open API 移植完成 v0.1.0
-- [x] 腾讯QQ音乐 Meting Open API 移植完成 v0.2.0
-- [x] 酷狗音乐 Meting Open API 移植完成 v1.0.0
-- [x] 虾米, 百度音乐 Meting Open API 移植完成 v1.1.0
-- [x] 支持返回强类型实体对象 eg: SearchObj("千里邀月") v1.1.0  
+- [x] 网易云音乐 免费歌曲下载
+- [x] 网易云音乐 付费歌曲下载
+- [ ] 网易云音乐 试听歌曲下载
+
 
 #### 注
 
