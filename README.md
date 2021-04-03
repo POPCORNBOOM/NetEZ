@@ -52,15 +52,10 @@ NetEz: Using <a href="https://github.com/yiyungent/Meting4Net" target="_blank">M
 
 - 本项目使用 <a href="https://github.com/yiyungent/Meting4Net" target="_blank">Meting4Net</a> 作为API获取，感谢作者 yiyungent 的贡献
 
-## 开放源代码许可
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyiyungent%2FMeting4Net.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyiyungent%2FMeting4Net?ref=badge_large)
-
 
 ## Donate
 
-Meting4Net is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing.
-
 We accept donations through these channels:
 - <a href="https://afdian.net/@PopcornBoom" target="_blank">爱发电</a>
+
 [![爱发电](https://z3.ax1x.com/2021/04/04/cuwiDK.jpg)](https://imgtu.com/i/cuwiDK)
