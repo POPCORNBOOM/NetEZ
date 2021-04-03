@@ -3,7 +3,6 @@
 
 
 
-[English](README_en.md)
 
 ## 介绍
 
