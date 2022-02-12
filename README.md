@@ -1,6 +1,8 @@
 #NetEz
-> :cake: 一个免费简单的网易云音乐下载器
+> 🍰 一个免费简单的网易云音乐下载器
+
 > ⚠️ NetEZ is the previous version of [EZmusic](https://github.com/POPCORNBOOM/EZMusic), plz go to [EZmusic](https://github.com/POPCORNBOOM/EZMusic)
+
 > ⚠️ NetEZ 是 [EZmusic](https://github.com/POPCORNBOOM/EZMusic) 的前身，请移步至 [EZmusic](https://github.com/POPCORNBOOM/EZMusic)
 
 
